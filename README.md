@@ -21,3 +21,4 @@ A Python-based data pipeline that fetches track metadata from Spotify using the 
 
 ---
 
+⚠️ Client credentials have been removed. Do not share your secret keys in public repos.
